@@ -16,6 +16,4 @@ Start with one conversation. Foundable helps you:
 
 No code. No setup.
 
-[Bring your idea to life at foundable.com](https://foundable.com/)
-
-[LinkedIn](https://www.linkedin.com/company/joinfoundable/)
+[Website](https://foundable.com/) · [LinkedIn](https://www.linkedin.com/company/joinfoundable/) · [X](https://x.com/JoinFoundable) · [Crunchbase](https://www.crunchbase.com/organization/foundable-5bcc)
