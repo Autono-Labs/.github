@@ -6,14 +6,18 @@
 
 **AI for people with ideas.**
 
-One idea can change everything. Foundable uses AI to turn your idea into an autonomous business that runs, improves, and helps make money while you sleep.
+Foundable is an idea-to-profit platform that helps people turn rough ideas into
+useful products, grow demand, test pricing, launch, and earn. It coordinates
+those steps with AI; a launch, customer, or sale still depends on real-world
+validation.
 
-Start with one conversation. Foundable helps you:
+Start with one conversation:
 
-- **Build** the product
-- **Grow** an audience
-- **Earn** from what you create
+- **Build** — validate the idea and create something useful
+- **Grow** — find and reach the people it is meant to help
+- **Earn** — package, price, and make a real offer
 
-No code. No setup.
+Foundable is operated by Autono Labs, Inc. and is currently in private early
+access.
 
-[Website](https://foundable.com/) · [LinkedIn](https://www.linkedin.com/company/joinfoundable/) · [X](https://x.com/JoinFoundable) · [Crunchbase](https://www.crunchbase.com/organization/foundable-5bcc)
+[Website](https://foundable.com/) · [Press](https://foundable.com/press) · [LinkedIn](https://www.linkedin.com/company/joinfoundable/) · [X](https://x.com/JoinFoundable)
