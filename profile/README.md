@@ -17,7 +17,7 @@ Start with one conversation:
 - **Grow** — find and reach the people it is meant to help
 - **Earn** — package, price, and make a real offer
 
-Foundable is operated by Autono Labs, Inc. and is currently in private early
-access.
+Foundable is operated by Autono Labs, Inc. and is publicly available with a
+free plan.
 
 [Website](https://foundable.com/) · [Press](https://foundable.com/press) · [LinkedIn](https://www.linkedin.com/company/joinfoundable/) · [X](https://x.com/JoinFoundable)
